@@ -1,10 +1,8 @@
 //
 // Created by scolphew on 2021/6/26.
 //
-#include<string>
-#include<iostream>
 
-using std::string;
+#include "../../base/base.h"
 
 class Solution {
 public:
